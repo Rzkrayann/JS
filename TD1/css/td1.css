@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.dp{
+    display: inline;
+}
+
+#h1,#h2{
+    margin-top: auto;
+}
+
+#IGD,#IGD2,#IGD3{
+    display: none;
+    background-color: black;
+    border-radius: 10px;
+    text-decoration: underline;
+    color: white;
+    width: 18%;
+    text-align: center;
+}
+
+#IG,#IG2,#IG3{
+    
+    background-color: blueviolet;
+    border-radius: 5px;
+    text-decoration: underline;
+    color: white;
+    width: 18%;
+    text-align: center;
+}
+
+a{
+    display: block;
+}
+
