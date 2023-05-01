@@ -1,0 +1,11 @@
+.error{
+    color: red;
+}
+
+.success{
+    color: green;
+}
+
+.inputerr{
+    border-color: red;
+}
